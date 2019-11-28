@@ -37,7 +37,7 @@ let emp = [];
 
 do {
   emp.push('I love the Beatles!');
-
+number++;
 } while(number < 15);
 
 return emp;
